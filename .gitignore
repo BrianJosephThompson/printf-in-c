@@ -1,5 +1,3 @@
 functions.o
-functions
-my_printf.o
-my_printf
+printf.o
 print_types.o
